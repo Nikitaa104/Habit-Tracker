@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Env
+.env
+!.env.example
+
+# Frontend
+node_modules/
+build/
+.env.local
+
+# DB
+*.sqlite
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Migrations (keep the folder but exclude generated versions for portability)
+backend/migrations/versions/*.py
