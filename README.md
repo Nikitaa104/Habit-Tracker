@@ -3,6 +3,9 @@
 A small, well-structured habit-tracking application built with Python/Flask, React, and MySQL.
 
 > Built as an assessment submission for Better Software.
+> <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/00bafe9c-6eb1-4064-90c8-613e5bcaa7a0" />
+
+<img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/c9f75820-3b2f-43d7-b877-891e93368e6d" />
 
 ---
 
@@ -49,6 +52,7 @@ python -m pytest tests/ -v
 ```
 
 ---
+<img width="1910" height="785" alt="image" src="https://github.com/user-attachments/assets/f8ea884d-eb11-47a7-8ac7-b539020faede" />
 
 ## API Reference
 
